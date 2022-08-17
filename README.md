@@ -17,8 +17,7 @@ The provided CSV file contains the price change data of cryptocurrencies in diff
 
 ## Files
 Download the following files to help you get started:
-
-* [Module 10 Challenge Files](#Module 10 Challenge Files): Module 10 Challenge files
+* [Module 10 Challenge]
 
 ## Instructions
 The high-level steps for this Challenge are as follows:
@@ -41,7 +40,7 @@ The high-level steps for this Challenge are as follows:
 
 The starter code already handles the first two steps. The following subsections include the detailed instructions for the remaining steps.
 
-IMPORTANT
+** IMPORTANT **
 For this Challenge, assume that k refers to lowercase k. The instructions will specify "uppercase K" where necessary.
 
 ## Find the Best Value for k by Using the Original Data
