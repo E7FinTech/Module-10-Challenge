@@ -16,8 +16,8 @@ You’ll create a Jupyter notebook that clusters cryptocurrencies by their perfo
 The provided CSV file contains the price change data of cryptocurrencies in different periods.
 
 ## Files
-Download the [Module 10 Challenge] files to help you get started:
-
+Download the following files to help you get started:
+* [Module 10 Challenge]
 
 ## Instructions
 The high-level steps for this Challenge are as follows:
